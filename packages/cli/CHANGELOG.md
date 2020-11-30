@@ -1,5 +1,13 @@
 # @backstage/cli
 
+## 0.3.3
+
+### Patch Changes
+
+- 4a655c89d: Bump versions of `esbuild` and `rollup-plugin-esbuild`
+- Updated dependencies [4e7091759]
+  - @backstage/config-loader@0.4.0
+
 ## 0.3.2
 
 ### Patch Changes

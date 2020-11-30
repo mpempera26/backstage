@@ -1,5 +1,12 @@
 # @backstage/plugin-proxy-backend
 
+## 0.2.2
+
+### Patch Changes
+
+- 3619ea4c4: Add configuration schema for the commonly used properties
+  - @backstage/backend-common@0.3.3
+
 ## 0.2.1
 
 ### Patch Changes

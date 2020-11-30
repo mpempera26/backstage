@@ -1,5 +1,23 @@
 # example-app
 
+## 0.2.5
+
+### Patch Changes
+
+- Updated dependencies [a2cfa311a]
+- Updated dependencies [303c5ea17]
+- Updated dependencies [4a655c89d]
+- Updated dependencies [a9fd599f7]
+- Updated dependencies [da2ad65cb]
+  - @backstage/plugin-cost-insights@0.4.2
+  - @backstage/plugin-sentry@0.2.4
+  - @backstage/plugin-welcome@0.2.2
+  - @backstage/cli@0.3.3
+  - @backstage/plugin-catalog-import@0.3.0
+  - @backstage/catalog-model@0.3.2
+  - @backstage/plugin-scaffolder@0.3.2
+  - @backstage/plugin-techdocs@0.3.1
+
 ## 0.2.4
 
 ### Patch Changes

@@ -1,5 +1,18 @@
 # example-backend
 
+## 0.2.5
+
+### Patch Changes
+
+- Updated dependencies [a9fd599f7]
+- Updated dependencies [3619ea4c4]
+  - @backstage/plugin-catalog-backend@0.3.0
+  - @backstage/catalog-model@0.3.2
+  - @backstage/plugin-proxy-backend@0.2.2
+  - @backstage/backend-common@0.3.3
+  - @backstage/plugin-app-backend@0.3.2
+  - example-app@0.2.5
+
 ## 0.2.4
 
 ### Patch Changes

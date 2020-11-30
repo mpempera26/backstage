@@ -1,5 +1,11 @@
 # @backstage/plugin-cost-insights
 
+## 0.4.2
+
+### Patch Changes
+
+- a2cfa311a: Add breakdown view to the Cost Overview panel
+
 ## 0.4.1
 
 ### Patch Changes

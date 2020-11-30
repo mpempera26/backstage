@@ -1,5 +1,15 @@
 # @backstage/config-loader
 
+## 0.4.0
+
+### Minor Changes
+
+- 4e7091759: Fix typo of "visibility" in config schema reference
+
+  If you have defined a config element named `visiblity`, you
+  will need to fix the spelling to `visibility`. For more info,
+  see https://backstage.io/docs/conf/defining#visibility.
+
 ## 0.3.0
 
 ### Minor Changes

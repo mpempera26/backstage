@@ -1,5 +1,13 @@
 # @backstage/plugin-techdocs
 
+## 0.3.1
+
+### Patch Changes
+
+- da2ad65cb: Use type EntityName from catalog-model for entities
+- Updated dependencies [a9fd599f7]
+  - @backstage/catalog-model@0.3.2
+
 ## 0.3.0
 
 ### Minor Changes
