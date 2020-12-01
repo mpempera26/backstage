@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: petstore
   description: Petstore
+  annotations:
+    backstage.io/techdocs-ref: value
 spec:
   type: service
   lifecycle: experimental
